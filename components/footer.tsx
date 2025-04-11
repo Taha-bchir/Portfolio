@@ -12,20 +12,14 @@ export default function Footer() {
             <Link href="#home" className="text-xl font-bold tracking-tight">
               <span className="text-primary">Dev</span>Portfolio
             </Link>
-            <p className="text-sm text-muted-foreground">&copy; {currentYear} Your Name. All rights reserved.</p>
-          </div>
-          <div className="flex items-center gap-1 text-sm text-muted-foreground">
-            Made with <Heart className="w-4 h-4 text-red-500" /> using Next.js and Tailwind CSS
+            <p className="text-sm text-muted-foreground">&copy; {currentYear} Taha Bchir. All rights reserved.</p>
           </div>
           <nav className="flex gap-4 text-sm">
-            <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="/privacy-policy" className="text-muted-foreground hover:text-foreground transition-colors">
               Privacy Policy
             </Link>
-            <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="/terms-of-service" className="text-muted-foreground hover:text-foreground transition-colors">
               Terms of Service
-            </Link>
-            <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
-              Sitemap
             </Link>
           </nav>
         </div>

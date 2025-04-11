@@ -13,7 +13,7 @@ export default function Projects() {
       title: "StyleHub",
       description:
         "A full-stack e-commerce application with product listings, shopping cart, user authentication, and payment processing.",
-      image: "/Capture ecommerce.PNG",
+      image: "/Capture ecommerce.jpg",
       tags: ["React.js", "Tailwind CSS", "MySQL"],
       demoLink: "#",
       githubLink: "#",
@@ -22,7 +22,7 @@ export default function Projects() {
       title: "MyBlog",
       description:
         "A platform where ideas, insights, and stories come together. Our blog features a variety of articles on topics ranging from technology, lifestyle, education, and more. Stay informed, inspired, and entertained with fresh content updated regularly.",
-      image: "/Capture blog.PNG",
+      image: "/Capture blog.jpg",
       tags: ["PHP", "MySQL", "Schadcn/UI"],
       demoLink: "#",
       githubLink: "#",
@@ -31,7 +31,7 @@ export default function Projects() {
       title: "Bid-Bazaar",
       description:
         "Bid-Bazaar aims to provide a seamless and interactive bidding experience for users who want to buy or sell items in real-time",
-      image: "/Capture.png",
+      image: "/Capture.jpg",
       tags: ["JavaScript", "OpenWeather API", "Chart.js", "CSS"],
       demoLink: "#",
       githubLink: "#",
@@ -40,7 +40,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description:
         "A personal portfolio website showcasing projects, skills, and experience with a modern and responsive design.",
-      image: "/Capture d.png",
+      image: "/Capture d.jpg",
       tags: ["Next.js", "Tailwind CSS", "Framer Motion", "Vercel"],
       demoLink: "#",
       githubLink: "#",

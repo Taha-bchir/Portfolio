@@ -56,7 +56,7 @@ export default function Contact() {
       // Replace these values with your actual EmailJS service ID and template ID
       const response = await emailjs.send(
         "service_nuwd65e", // Your EmailJS service ID
-        "template_8t13rce", // Your EmailJS template ID
+        "template_4fumpjo", // Your EmailJS template ID
         {
           from_name: formData.name,
           from_email: formData.email,
