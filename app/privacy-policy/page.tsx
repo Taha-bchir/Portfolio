@@ -68,16 +68,6 @@ export default function PrivacyPolicy() {
           I use modern security practices to protect your information, but please note that no method of transmission
           online is completely secure.
         </p>
-
-        <h2 className="mt-10 border-b pb-2 text-xl font-semibold">Your Rights</h2>
-        <p>You may be entitled to the following rights depending on your jurisdiction:</p>
-        <ul>
-          <li>Access to your personal data</li>
-          <li>Correction of inaccurate data</li>
-          <li>Request deletion of your data</li>
-          <li>Object or restrict processing</li>
-        </ul>
-
         <h2 className="mt-10 border-b pb-2 text-xl font-semibold">Changes to This Privacy Policy</h2>
         <p>
           I may update this policy occasionally. The latest revision date is shown at the top. Changes take effect
