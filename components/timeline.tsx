@@ -58,13 +58,25 @@ export default function Timeline() {
     {
       title: "Microsoft Tech Committee Member",
       organization: "Microsoft Tech Club",
-      period: "2025",
+      period: "2024 - Present",
       description: [
         "Microsoft Tech Committee Member in 2025."
       ],
       type: "social",
       link: null,
-    }
+    },
+    {
+      title: "Hackathon Organizer",
+      organization: "IDinnovate",
+      period: "2024",
+      description: [
+        "Organized a hackathon called IDinnovate in 2024.",
+        "Coordinated logistics, promotion, and participant experience.",
+        "Successfully gathered developers, designers, and entrepreneurs to solve real-world challenges."
+      ],
+      type: "achievement",
+      link: null
+    }    
   ]
 
   const getIcon = (type: string) => {
