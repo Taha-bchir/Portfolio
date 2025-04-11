@@ -1,0 +1,31 @@
+  const timelineItems = [
+    {
+      title: "SEO Intern Experience",
+      organization: "Etnafes",
+      period: "January 2024",
+      description: [
+        "Gained hands-on experience in SEO.",
+        "Focused on keyword research to improve search visibility.",
+        "Implemented on-page optimization techniques.",
+        "Created engaging content to enhance website rankings.",
+        "Developed link-building strategies to boost site authority."
+      ],
+      type: "education",
+    },
+    {
+      title: "Web Development Intern",
+      organization: "Etnafes",
+      period: "January 2025",
+      description:
+        "Developed and maintained the Bid-Bazaar auction platform using Laravel and Vue.js. Collaborated with the design team to implement responsive UI components and ensure seamless user interactions across devices.",
+      type: "education",
+    },
+    {
+      title: "Hackathon Winner",
+      organization: "Microsoft Tech Club",
+      period: "2024",
+      description:
+        "Led a team of Three to develop an innovative solution for local community challenges. Won first place out of 20 teams.",
+      type: "achievement",
+    },
+  ]

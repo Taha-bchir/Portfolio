@@ -36,15 +36,6 @@ export default function Projects() {
       demoLink: "#",
       githubLink: "#",
     },
-    {
-      title: "Portfolio Website",
-      description:
-        "A personal portfolio website showcasing projects, skills, and experience with a modern and responsive design.",
-      image: "/Capture d.jpg",
-      tags: ["Next.js", "Tailwind CSS", "Framer Motion", "Vercel"],
-      demoLink: "#",
-      githubLink: "#",
-    },
   ]
 
   return (
